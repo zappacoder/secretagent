@@ -52,3 +52,11 @@ header img {
   font-size: 2rem;
   font-weight: bold;
 }
+
+nav {
+  background-color: firebrick;
+}
+
+nav p {
+  display: inline-block;
+}
