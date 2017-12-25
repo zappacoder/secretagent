@@ -1,0 +1,50 @@
+html, body {
+  font-size: 18px;
+  font-family: Helvetica;
+  color: white;
+}
+header {
+  display: flex;
+  align-content: center;
+  background-color: black;
+  /*color: white;*/
+}
+
+header p {
+  /*display: inline-block;*/
+  font-size: 1rem;
+  margin: .66rem 0rem .66rem 1rem;
+}
+
+header img {
+  height: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.main {
+  height: 25rem;
+  background-image: url("../images/moto.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.new-arrival {
+  width: 20rem;
+  height: 10rem;
+  background-color: black;
+  position: relative;
+  top: 9rem;
+  left: 6rem;
+  padding: 2rem 5rem 3rem 3rem;
+}
+
+.new-arrival-p {
+  margin-top: 2rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.sport-bikes {
+  font-size: 2rem;
+  font-weight: bold;
+}
