@@ -75,8 +75,11 @@ nav p {
   border-top: 4px solid black;
 }
 
-.image-content {
+.product img {
   height: 9rem;
+}
+
+.image-content {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
