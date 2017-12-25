@@ -65,28 +65,45 @@ nav p {
   margin: 0.75rem;
 }
 
-.product {
-  border: 4px solid black;
-  margin: 3rem 2rem;;
+.container {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
-.product .description {
+.product {
+  width: 30%;
+}
+
+.image {
+  border: 4px solid black;
+  height: 9rem;
+  padding: 2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*.product .description {
   background-color: black;
   border-top: 4px solid black;
   position: relative;
   top: 1rem;
-}
+}*/
 
-.product img {
+/*.product img {
   height: 9rem;
-}
+}*/
 
-.image-content {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.description {
+  display: block;
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+  text-align: center;
 }
 
 .flex {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  margin: 3rem 0 0 0;
 }
