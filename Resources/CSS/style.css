@@ -65,7 +65,7 @@ nav p {
   margin: 0.75rem;
 }
 
-.container {
+/*.container {
   max-width: 960px;
   margin: 0 auto;
 }
@@ -81,7 +81,7 @@ nav p {
   display: flex;
   justify-content: center;
   align-items: center;
-}
+}*/
 
 /*.product .description {
   background-color: black;
@@ -94,7 +94,7 @@ nav p {
   height: 9rem;
 }*/
 
-.description {
+/*.description {
   display: block;
   background-color: black;
   color: white;
@@ -106,4 +106,4 @@ nav p {
   display: flex;
   justify-content: space-between;
   margin: 3rem 0 0 0;
-}
+}*/
