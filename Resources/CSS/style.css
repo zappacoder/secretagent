@@ -80,3 +80,7 @@ nav p {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+
+.flex {
+  display: flex;
+}
