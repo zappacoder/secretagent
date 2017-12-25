@@ -65,12 +65,26 @@ nav p {
   margin: 0.75rem;
 }
 
-/*.container {
+
+
+.container {
   max-width: 960px;
   margin: 0 auto;
 }
 
-.product {
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 0 0 0;
+}
+
+.item {
+  width: 30%;
+  border: 4px solid black;
+  margin: 3rem 0 0 0;
+}
+
+/*.product {
   width: 30%;
 }
 
