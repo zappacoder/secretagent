@@ -73,6 +73,8 @@ nav p {
 .product .description {
   background-color: black;
   border-top: 4px solid black;
+  position: relative;
+  top: 1rem;
 }
 
 .product img {
