@@ -74,7 +74,8 @@ nav p {
 
 .flex {
   display: flex;
-  justify-content: space-between;
+  /*justify-content: space-between;*/
+  flex-direction: column;
   margin: 3rem 0 0 0;
 }
 
