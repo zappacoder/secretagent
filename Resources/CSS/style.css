@@ -80,6 +80,8 @@ nav p {
 
 .item {
   width: 30%;
+  display: flex;
+  flex-direction: column;
 }
 
 .image-content {
@@ -88,9 +90,12 @@ nav p {
   align-items: center;
   border: 4px solid black;
   margin: 3rem 0 0 0;
-  height: 9rem;
 }
 
+.image-content img {
+  height: 9rem;
+  padding: 2rem;
+}
 
 
 .description {
