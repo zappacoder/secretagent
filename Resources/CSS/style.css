@@ -95,6 +95,11 @@ nav p {
   padding: 2rem 3rem;
 }
 
+.description {
+  background-color: black;
+  
+}
+
 /*.product {
   width: 30%;
 }
