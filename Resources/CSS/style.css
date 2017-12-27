@@ -80,20 +80,18 @@ nav p {
 
 .item {
   width: 30%;
-  border: 4px solid black;
-  margin: 3rem 0 0 0;
 }
 
 .image-content {
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 4px solid black;
+  margin: 3rem 0 0 0;
+  height: 9rem;
 }
 
-.image-content img {
-  height: 9rem;
-  padding: 2rem 3rem;
-}
+
 
 .description {
   background-color: black;
