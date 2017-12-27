@@ -121,12 +121,15 @@ nav p {
     background-color: black;
     color: white;
     display: block;
+    border: 1px solid black;
   }
 
   .subtitle {
-    color: white;
+    color: black;
   }
-
+.stealth-comapny {
+  width: 20%;
+}
 /*.product {
   width: 30%;
 }
