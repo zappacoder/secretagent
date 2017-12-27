@@ -136,6 +136,8 @@ footer {
   background-color: black;
   border: 1px solid black;
   margin-top: 4rem;
+  display: flex;
+  align-items: center;
 }
 /*.product {
   width: 30%;
