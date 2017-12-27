@@ -84,6 +84,17 @@ nav p {
   margin: 3rem 0 0 0;
 }
 
+.image-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-content img {
+  height: 9rem;
+  padding: 2rem 3rem;
+}
+
 /*.product {
   width: 30%;
 }
