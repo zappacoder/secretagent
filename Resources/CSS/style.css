@@ -130,6 +130,13 @@ nav p {
 .stealth-comapny {
   width: 20%;
 }
+
+footer {
+  height: 5rem;
+  background-color: black;
+  border: 1px solid black;
+  margin-top: 4rem;
+}
 /*.product {
   width: 30%;
 }
