@@ -65,6 +65,9 @@ nav p {
   margin: 0.75rem;
 }
 
+.menu {
+  display: none;
+}
 
 
 .container {
@@ -150,14 +153,17 @@ footer {
   header {
     font-size: 1.5rem;
   }
-  nav {
+  /*nav {
     display: none;
-  }
+  }*/
   .item {
     width: 47%;
   }
 
   .item.glasses {
+    display: none;
+  }
+  .regular-nav {
     display: none;
   }
   }
