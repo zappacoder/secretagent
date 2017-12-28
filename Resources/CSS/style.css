@@ -84,6 +84,12 @@ nav p {
   flex-direction: column;
 }
 
+.item.glasses {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
 .image-content {
   display: flex;
   justify-content: center;
