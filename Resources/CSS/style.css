@@ -173,6 +173,37 @@ footer {
   width: 100%;
 }
   }
+
+  @media only screen and (max-width: 470px) {
+    .main {
+      height: 15rem;
+      background-image: url("../images/moto.jpeg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+     .new-arrival {
+       width: 100%;
+       position: relative;
+       top: 10rem;
+       background-color: black;
+       border: 1px solid black;
+     }
+     .new-arrival-p {
+       font-family: Helvetica;
+       font-size: 0.77rem;
+       font-weight: bold;
+       margin-top: 1rem;
+       margin-left: 2rem;
+       color: white;
+     }
+     .sport-bikes {
+       font-family: Helvetica;
+       font-size: 1rem;
+       font-weight: bold;
+       margin-left: 2rem;
+     }
+  }
 /*.product {
   width: 30%;
 }
