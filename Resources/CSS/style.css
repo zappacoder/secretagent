@@ -127,9 +127,9 @@ nav p {
   .subtitle {
     color: black;
   }
-.stealth-comapny {
+/*.stealth-company {
   width: 20%;
-}
+}*/
 
 footer {
   height: 5rem;
@@ -139,6 +139,22 @@ footer {
   display: flex;
   align-items: center;
 }
+
+@media only screen and (max-width: 1024px;) {
+  header {
+    font-size: 1.5rem;
+  }
+  nav {
+    display: none;
+  }
+  .item {
+    width: 47%;
+  }
+
+  .item.glasses {
+    display: none;
+  }
+  }
 /*.product {
   width: 30%;
 }
