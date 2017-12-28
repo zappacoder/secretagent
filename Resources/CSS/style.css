@@ -167,6 +167,10 @@ footer {
 .big-nav {
   display: none;
 }
+
+.small-nav {
+  display:inline-block;
+}
   }
 /*.product {
   width: 30%;
