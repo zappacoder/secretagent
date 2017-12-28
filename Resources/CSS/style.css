@@ -93,6 +93,18 @@ nav p {
   flex-direction: column;
 }
 
+.item.watch {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.item.pen {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
 .image-content {
   display: flex;
   justify-content: center;
@@ -205,6 +217,17 @@ footer {
        font-weight: bold;
        margin-left: 2rem;
      }
+
+     .item.watch {
+      display: none;
+}
+
+.item.pen {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+
   }
 /*.product {
   width: 30%;
