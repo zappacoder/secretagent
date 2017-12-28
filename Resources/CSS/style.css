@@ -65,7 +65,7 @@ nav p {
   margin: 0.75rem;
 }
 
-.menu {
+.small-nav {
   display: none;
 }
 
@@ -163,9 +163,10 @@ footer {
   .item.glasses {
     display: none;
   }
-  .regular-nav {
-    display: none;
-  }
+
+.big-nav {
+  display: none;
+}
   }
 /*.product {
   width: 30%;
